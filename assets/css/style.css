@@ -1,0 +1,24 @@
+.test{
+  color: aqua;
+}
+input{
+  border: 2px solid aqua;
+  border: spacing 20px;
+  padding: 10px;;
+}
+textarea{
+  resize: none;
+  border:2px solid aqua;
+  width: 100%;;
+}
+table.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+button{
+  color: aliceblue;
+  background-color: aqua;
+  padding: 10px;
+  border: 2px solid aqua;
+  border-radius: 8px;
+}
